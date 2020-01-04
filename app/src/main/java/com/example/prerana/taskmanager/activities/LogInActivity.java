@@ -1,8 +1,10 @@
-package com.example.prerana.taskmanager;
+package com.example.prerana.taskmanager.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.prerana.taskmanager.R;
 
 public class LogInActivity extends AppCompatActivity {
 
